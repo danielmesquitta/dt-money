@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de software",
+      "type": "INCOME",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-01T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburgueria Pizzy",
+      "type": "OUTCOME",
+      "category": "Lazer",
+      "price": 50,
+      "createdAt": "2023-01-02T08:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Mercado XPTO",
+      "type": "OUTCOME",
+      "category": "Alimentação",
+      "price": 625,
+      "createdAt": "2023-01-03T08:00:00.000Z"
+    },
+    {
+      "description": "Aveia",
+      "price": 10,
+      "category": "Alimentação",
+      "type": "OUTCOME",
+      "createdAt": "2023-01-05T23:11:57.801Z",
+      "id": 4
+    }
+  ]
+}
